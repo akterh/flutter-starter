@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "290139089368",
+    "project_id": "camerasync-4e083",
+    "storage_bucket": "camerasync-4e083.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290139089368:android:ec538524b4f62ebb44aaad",
+        "android_client_info": {
+          "package_name": "com.camerasync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290139089368-lsefer8h90chdhru5fp2mrco59835vmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camerasync",
+            "certificate_hash": "395ae72dfa6d73fbe4af019dd111552a156e0d3b"
+          }
+        },
+        {
+          "client_id": "290139089368-bpd9al1c1uktp6cmhrq241bdsp6u0j9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYykMo_x_jRPB8NAIeJ4Oudsx4zQU9p34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290139089368-bpd9al1c1uktp6cmhrq241bdsp6u0j9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290139089368-0v9t7mi5p3u6grtus43m0t238175sp67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.camerasync"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290139089368:android:0b8e2b09f009625944aaad",
+        "android_client_info": {
+          "package_name": "com.camerasync.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290139089368-fg0876s9dflpvfse7urlf5n44ic0hoe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camerasync.dev",
+            "certificate_hash": "8f242ed5a87e4187f291cea55cab60cf2b3c2a42"
+          }
+        },
+        {
+          "client_id": "290139089368-bpd9al1c1uktp6cmhrq241bdsp6u0j9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYykMo_x_jRPB8NAIeJ4Oudsx4zQU9p34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290139089368-bpd9al1c1uktp6cmhrq241bdsp6u0j9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290139089368-0v9t7mi5p3u6grtus43m0t238175sp67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.camerasync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

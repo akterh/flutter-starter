@@ -1,0 +1,4 @@
+enum FeedbackType {
+  technical,
+  general
+}
